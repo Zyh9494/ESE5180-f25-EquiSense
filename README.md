@@ -14,7 +14,7 @@ EquiSense is a wearable IoT prototype for horses that combines **GNSS tracking**
 
 ---
 
-## What it does (in 30 seconds)
+## What it does
 - **GNSS + LTE-M integration:** Acquire GNSS fixes, package telemetry, and publish to cloud over LTE-M.
 - **Cloud telemetry:** Periodically publishes a JSON payload (e.g., `app_version`, `uptime`, balance state, environmental data) to AWS IoT.
 - **Fleet visibility:** Multiple devices appear in Memfault with identifiers + software version for basic fleet management.
